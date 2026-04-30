@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://www.medirama.co.kr/en/">
-    <img src="https://img.shields.io/badge/Medirama-Clinical%20Scientist-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Medirama-LLM%20Clinical%20Scientist-0A66C2?style=for-the-badge" />
   </a>
   <a href="https://v.daum.net/v/WP9vTjqy3H?f=p">
     <img src="https://img.shields.io/badge/YSAL%20x%20Samsung%20Thunders-News%20Coverage-1D976C?style=for-the-badge" />
