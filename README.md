@@ -13,11 +13,17 @@
 - Interests: LLM/VLM, data-centric AI, AI systems, sports AI (data and video analytics)
 - Experience: LangAGI Lab, Medirama, YSAL (Samsung Thunders), Edge AI Lab
 
-## Experience Highlights
+## Career
 
-- Medirama (Clinical Scientist): https://www.medirama.co.kr/en/
-- YSAL x Samsung Thunders collaboration (news): https://v.daum.net/v/WP9vTjqy3H?f=p
-- LangAGI Lab: Clinical reasoning agents (VLM/LLM) and inference optimization
+<div>
+  <a href="https://www.medirama.co.kr/en/">
+    <img src="https://img.shields.io/badge/Medirama-Clinical%20Scientist-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://v.daum.net/v/WP9vTjqy3H?f=p">
+    <img src="https://img.shields.io/badge/YSAL%20x%20Samsung%20Thunders-News%20Coverage-1D976C?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/LangAGI%20Lab-Clinical%20Reasoning%20Agent-6F42C1?style=for-the-badge" />
+</div>
 
 ## Tech Stack
 
