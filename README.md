@@ -9,7 +9,7 @@
 ## About Me
 
 - Yonsei University, B.S. in Computer Science
-- M.S./Ph.D. Integrated Program in Artificial Intelligence (1st semester, M.S. track)
+- M.S./Ph.D. Integrated Program in Artificial Intelligence
 - Interests: LLM/VLM, data-centric AI, AI systems, sports AI (data and video analytics)
 - Experience: LangAGI Lab, Medirama, YSAL (Samsung Thunders), Edge AI Lab
 
