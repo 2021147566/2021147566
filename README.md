@@ -52,9 +52,9 @@
 
 ## Product / PM
 
-- Service PM experience in campus startup project (Workstation "YeonJu")
-- Product planning and feature coordination across ML and frontend workflow
-- Led teams as YSAL President and UMC branch/chapter leader
+- Uni-Made: Product Manager (PM)
+- UMC-MSMG: Frontend Engineer and Product Manager (FE/PM)
+- Product planning and feature coordination across ML and frontend workflows
 
 ## Organizations
 
