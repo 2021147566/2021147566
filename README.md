@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/YSAL%20x%20Samsung%20Thunders-News%20Coverage-1D976C?style=for-the-badge" />
   </a>
   <a href="https://umc.makeus.in/">
-    <img src="https://img.shields.io/badge/UMC-Seoul%20West%20Branch%20Head%20%7C%20Yonsei%20President%20%7C%20PM%20Part%20Lead-FF6B35?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/UMC%207th-Seoul%20West%20Branch%20Head%20%7C%20Yonsei%20President%20%7C%20PM%20Part%20Lead-FF6B35?style=for-the-badge" />
   </a>
   <a href="https://langlab.yonsei.ac.kr/">
     <img src="https://img.shields.io/badge/LangAGI%20Lab-Research%20Intern-6F42C1?style=for-the-badge" />
