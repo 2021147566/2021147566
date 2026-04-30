@@ -15,9 +15,9 @@
 
 ## Experience Highlights
 
-- Medirama (Clinical Scientist): LLM fine-tuning on clinical trial and protocol data
+- Medirama (Clinical Scientist): https://www.medirama.co.kr/en/
+- YSAL x Samsung Thunders collaboration (news): https://v.daum.net/v/WP9vTjqy3H?f=p
 - LangAGI Lab: Clinical reasoning agents (VLM/LLM) and inference optimization
-- YSAL (Samsung Thunders): Sports data and video analytics for team strategy
 
 ## Tech Stack
 
