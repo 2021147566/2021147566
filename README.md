@@ -15,6 +15,8 @@
 
 ## Career
 
+🔗 Click a badge to open the reference.
+
 <div>
   <a href="https://www.medirama.co.kr/en/">
     <img src="https://img.shields.io/badge/Medirama-LLM%20Clinical%20Scientist-0A66C2?style=for-the-badge" />
