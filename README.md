@@ -8,7 +8,8 @@
 
 ## About Me
 
-- Yonsei University, Computer Science (AI track)
+- Yonsei University, B.S. in Computer Science
+- M.S./Ph.D. Integrated Program in Artificial Intelligence (1st semester, M.S. track)
 - Interests: LLM/VLM, data-centric AI, AI systems
 - Experience: LangAGI Lab, Medirama, YSAL (Samsung Thunders), Edge AI Lab
 
